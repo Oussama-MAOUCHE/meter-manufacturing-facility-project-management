@@ -1,32 +1,37 @@
 # Evidence & Confidentiality
 
-## Evidence basis
+This case study is grounded in original project records together with first-hand context from my work on the project.
 
-This case study is based on a large surviving project archive plus first-hand project context.
+## Evidence reviewed
 
-The reviewed material covers the project lifecycle and my direct delivery period through multiple evidence families:
+Reviewed material includes:
 
-| Area | Evidence reviewed |
-|---|---|
-| Planning & progress | MS Project schedules, planning revisions, progress trackers and recurring dated project presentations |
-| Reporting | Executive project-status presentations, monthly reports and action follow-up |
-| Contracts & change | Contractor/BET contracts, amendments, work orders, stop/resume records, complementary-work and negotiation files |
-| Procurement | Cahiers des charges, consultation packages, offer evaluations and negotiation records |
-| Financial follow-up | Project financial workbook, work-progress/payment statements, invoice/payment tracking, forecasts and DGD/final accounts |
-| Technical coordination | Meeting minutes, study-gap records, drawing/plan revisions, technical-control observations and reserve files |
-| Acceptance & closeout | Provisional-acceptance records, punch-list / reserve follow-up, closeout amendments and service/final-account documentation |
-| Visual evidence | Construction-stage and later facility/production photographs, plus recurring project-status presentations |
+- Microsoft Project schedules and planning revisions;
+- progress trackers and recurring dated project presentations;
+- monthly and executive reporting;
+- meeting and negotiation minutes;
+- technical specifications / tender packages (cahiers des charges);
+- contractor and engineering-consultant / BET contracts and amendments;
+- work orders and stop/resume records;
+- additional/complementary-work and negotiation files;
+- project financial trackers, invoices, payment follow-up and final accounts;
+- technical evaluations, drawing revisions and study-gap records;
+- technical-control observations and punch-list / reserve files;
+- provisional-acceptance and closeout documents;
+- construction-stage and later facility/production photographs.
 
-## Published evidence
+## Public evidence
 
-The public repository uses two sanitized SVG visuals derived from the reviewed evidence:
+The repository publishes selected material needed to explain the project without exposing the original working archive:
 
 - a high-level project-delivery timeline;
-- a reconstructed progress snapshot based on the 08 September 2024 management presentation.
+- a sanitized reconstruction of the 08 September 2024 progress snapshot;
+- the project timeline;
+- delivery and controls notes;
+- one representative issue case;
+- a representative evidence summary.
 
-The original construction/facility photographs remain part of the private evidence archive in the current public version.
-
-The README and [Representative Project Evidence](representative-artifacts.md) document the evidence trail behind the main responsibility claims without publishing confidential originals.
+The original project photographs remain private in the current public version.
 
 ## Material kept private
 
@@ -36,10 +41,11 @@ The repository does not publish:
 - exact contract values;
 - invoices and detailed payment records;
 - signatures or stamps;
-- private emails;
+- private emails and internal correspondence;
 - detailed technical drawings;
 - raw tender submissions and confidential evaluations;
-- internal correspondence;
 - personal contact information.
 
-External stakeholders are described mainly by their project function unless naming an organization is necessary to explain the project context.
+## Documentation basis
+
+The public case study summarizes the reviewed project material and my first-hand project context. It keeps the main evidence traceable while leaving confidential working documents and raw project records private.
