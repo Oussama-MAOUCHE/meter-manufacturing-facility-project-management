@@ -2,18 +2,18 @@
 
 ## Delivery structure
 
-My direct involvement began in August 2023 on the owner side of a multi-contract industrial project.
+My direct involvement began in August 2023 on behalf of the project owner in a multi-contract industrial project.
 
 The execution period was organized around four core contract streams:
 
 - two contractor scopes;
 - two engineering-consultant / BET scopes.
 
-The project also involved technical control, laboratories, internal technical and management functions, and specialist procurement packages.
+The wider stakeholder environment also included technical control, laboratories, internal management and technical functions, procurement/finance teams and specialist suppliers or contractors.
 
-## Planning and progress control
+## Project controls
 
-Project controls included:
+I followed the project through a combination of:
 
 - MS Project schedules and revisions;
 - physical-progress tracking;
@@ -22,30 +22,49 @@ Project controls included:
 - recurring project-status presentations;
 - monthly and executive-level reporting.
 
-I collected inputs from the different parties, consolidated them into project reporting and regularly presented the status to executive management.
+I collected inputs from the different parties, reconciled them into project reporting and regularly presented status, issues and actions to executive management.
 
-## Specifications, procurement and contract administration
+## Documentation and formal follow-up
 
-Procurement and specification work was a recurring responsibility.
+I prepared or maintained a substantial part of the project-owner documentation used for coordination, management review and formal issue.
 
-Within the TABEL project I prepared or substantially contributed to several cahiers des charges, consultation and contract packages. This included the engineering-consultant / BET package and selected technical infrastructure packages.
+Depending on the subject, this included:
 
-I also participated in contractor / consultant selection, technical offer evaluation, negotiation and subsequent contract follow-up.
+- progress and status presentations;
+- meeting and negotiation minutes;
+- cahiers des charges / consultation packages;
+- contract and amendment documents;
+- work orders;
+- requests and formal transmittals;
+- change/additional-work documentation;
+- financial trackers and final-account work;
+- reception and closeout documents.
+
+## Procurement and selection
+
+Preparing and contributing to procurement documentation was a recurring responsibility.
+
+Within TABEL, this included the engineering-consultant / BET consultation package and selected technical infrastructure packages. I also participated in contractor/consultant selection, technical offer evaluation and negotiation activities.
+
+The repository summarizes this work while keeping raw tender files and confidential evaluations private.
+
+## Contract and change management
 
 Contract administration covered:
 
 - execution follow-up;
-- amendments;
+- amendments and closeout amendments;
 - additional and complementary works;
 - work orders;
-- work stoppage and resumption;
+- stop and resume controls;
 - schedule and scope impacts;
-- work situations;
-- final accounts and closing amendments.
+- price discussions and negotiations;
+- work-progress / payment statements;
+- final accounts and DGD/closeout documentation.
 
 ## Technical coordination
 
-The execution environment crossed several disciplines:
+The project crossed several disciplines:
 
 - civil works;
 - steel structure;
@@ -56,48 +75,37 @@ The execution environment crossed several disciplines:
 - utilities and technical rooms;
 - IT/network and surveillance packages.
 
-Project drawings were used as working references to understand interfaces, follow execution and coordinate study gaps or modified plans.
+Drawings were used as working references during follow-up. I reviewed them to understand interfaces and execution constraints and coordinated missing information, modified plans, study gaps and technical-control observations with the relevant stakeholders.
 
-## Cost and payment follow-up
+## Cost and payment monitoring
 
-Financial monitoring connected contract status with execution status.
+Financial follow-up connected contract status with execution status.
 
-The reviewed archive includes tracking of:
+The reviewed records include:
 
 - contract and amendment values;
-- work situations;
+- work-progress / payment statements;
 - invoices and payment status;
 - forecasts;
 - remaining commitments;
-- final-account / DGD information.
+- DGD / final-account information.
 
-This work kept project cost and contractual status visible alongside execution progress.
+Financial approvals followed the organization's normal approval process; my work focused on maintaining the project cost, payment and contract-status view used for follow-up.
 
-## Risk and issue control
+## Quality, technical control and reserves
 
-The archive contains direct evidence of delay and technical-issue analysis.
+Project-owner follow-up also included technical-control observations, punch-list / reserve items and their closeout and coordination between the BET, contractor and technical-control body.
 
-A representative case involved:
+These records continued through provisional acceptance and closeout.
 
-- delayed steel-structure procurement;
-- slow physical progress;
-- a freight-lift / foundation design interface;
-- technical-control feedback;
-- correction of the study;
-- complementary works;
-- schedule implications;
-- contractor commitments and formal follow-up.
+## Acceptance and closeout
 
-The experience from this phase was carried into the later scope through broader study-adaptation requirements and earlier identification of plan gaps.
+Both main contractor scopes reached provisional acceptance during my involvement.
 
-## Reception and closeout
+Closeout work then covered:
 
-Both main contractor scopes reached provisional reception.
-
-Closeout activities then included:
-
-- reserve follow-up;
+- punch-list / reserve follow-up;
 - DGD / final-account work;
-- closing amendments;
-- service / execution documentation;
+- closeout amendments;
+- service/execution documentation;
 - final financial reconciliation.
