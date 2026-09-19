@@ -25,14 +25,7 @@ A substantial number of owner-side Office documents contain Oussama MAOUCHE in c
 
 ## Public evidence
 
-The repository uses four selected project photographs:
-
-- early execution stage;
-- completed facility exterior;
-- meter assembly area;
-- gas-meter production workshop.
-
-The image files were re-exported without embedded EXIF metadata before publication.
+The repository uses one selected facility photograph together with the project lifecycle diagram in the main README. The photograph was re-exported without embedded EXIF metadata before publication.
 
 ## Material kept private
 
