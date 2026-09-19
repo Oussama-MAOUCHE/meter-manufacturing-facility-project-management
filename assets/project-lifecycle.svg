@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">TABEL project delivery timeline</title>
+  <desc id="desc">A high-level timeline from earlier project history through Oussama's involvement beginning in August 2023, execution, second delivery scope, provisional acceptance and closeout.</desc>
+  <rect width="1200" height="260" fill="#ffffff"/>
+  <text x="40" y="40" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#1f2937">TABEL / Oran — delivery timeline</text>
+  <text x="40" y="70" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#4b5563">High-level chronology reconstructed from the reviewed project archive</text>
+  <line x1="95" y1="145" x2="1105" y2="145" stroke="#9ca3af" stroke-width="3"/>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <circle cx="120" cy="145" r="10" fill="#374151"/><text x="120" y="112" font-size="15" font-weight="700" fill="#111827">Earlier stages</text><text x="120" y="173" font-size="13" fill="#4b5563">Design &amp; permitting</text><text x="120" y="192" font-size="13" fill="#4b5563">project history</text>
+    <circle cx="340" cy="145" r="12" fill="#111827"/><text x="340" y="104" font-size="15" font-weight="700" fill="#111827">Aug 2023</text><text x="340" y="123" font-size="13" fill="#4b5563">My involvement begins</text><text x="340" y="177" font-size="13" fill="#4b5563">Owner-side coordination</text><text x="340" y="196" font-size="13" fill="#4b5563">&amp; project controls</text>
+    <circle cx="560" cy="145" r="10" fill="#374151"/><text x="560" y="112" font-size="15" font-weight="700" fill="#111827">Execution</text><text x="560" y="173" font-size="13" fill="#4b5563">Civil works, steel structure</text><text x="560" y="192" font-size="13" fill="#4b5563">technical coordination</text>
+    <circle cx="780" cy="145" r="10" fill="#374151"/><text x="780" y="104" font-size="15" font-weight="700" fill="#111827">2024</text><text x="780" y="123" font-size="13" fill="#4b5563">Second delivery scope</text><text x="780" y="177" font-size="13" fill="#4b5563">Study adaptation, changes</text><text x="780" y="196" font-size="13" fill="#4b5563">procurement &amp; negotiations</text>
+    <circle cx="1000" cy="145" r="10" fill="#374151"/><text x="1000" y="104" font-size="15" font-weight="700" fill="#111827">2024–2025</text><text x="1000" y="123" font-size="13" fill="#4b5563">Acceptance &amp; closeout</text><text x="1000" y="177" font-size="13" fill="#4b5563">Punch-list, final account</text><text x="1000" y="196" font-size="13" fill="#4b5563">contract closeout</text>
+  </g>
+</svg>
