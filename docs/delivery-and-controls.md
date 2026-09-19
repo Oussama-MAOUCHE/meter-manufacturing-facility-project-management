@@ -69,9 +69,9 @@ The reviewed archive includes tracking of:
 - invoices and payment status;
 - forecasts;
 - remaining commitments;
-- DGD / final-account information.
+- final-account / DGD information.
 
-This work supported owner-side visibility of project cost and contractual position without implying sole budget-approval authority.
+This work kept project cost and contractual status visible alongside execution progress.
 
 ## Risk and issue control
 
