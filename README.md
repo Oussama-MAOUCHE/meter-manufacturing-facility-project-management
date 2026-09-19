@@ -4,8 +4,6 @@ From **August 2023 to May 2025**, I worked on the owner side of the construction
 
 My formal company title remained **Ingénieur d'études**. In practice, I handled day-to-day project-management responsibilities across planning, contracts, technical coordination, cost follow-up, reporting, risks, reception and closeout.
 
-![Completed manufacturing facility](assets/facility-exterior.webp)
-
 ## At a glance
 
 | Area | Details |
