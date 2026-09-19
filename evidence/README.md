@@ -25,7 +25,7 @@ A substantial number of owner-side Office documents contain Oussama MAOUCHE in c
 
 ## Public evidence
 
-The repository uses one selected facility photograph together with the project lifecycle diagram in the main README. The photograph was re-exported without embedded EXIF metadata before publication.
+The public repository uses a project lifecycle diagram in the main README and summarized evidence from the reviewed archive. Raw project photographs remain private in the current version.
 
 ## Material kept private
 
