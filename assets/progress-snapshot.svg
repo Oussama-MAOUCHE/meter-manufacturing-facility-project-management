@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="430" viewBox="0 0 1000 430" role="img" aria-labelledby="title desc">
+  <title id="title">Project progress snapshot — 8 September 2024</title>
+  <desc id="desc">Sanitized recreation of a project status slide showing 100 percent progress for the civil works and steel-structure package, 97.49 percent for remaining works, and 99.12 percent global progress.</desc>
+  <rect width="1000" height="430" fill="#ffffff"/>
+  <text x="50" y="55" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#111827">Project progress snapshot — 08 Sep 2024</text>
+  <text x="50" y="87" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#4b5563">Sanitized recreation of a management-status slide prepared from the reviewed project archive</text>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="50" y="125" width="900" height="66" rx="8" fill="#f3f4f6"/>
+    <text x="75" y="151" font-size="17" font-weight="700" fill="#111827">Civil works &amp; steel structure</text>
+    <rect x="75" y="164" width="760" height="10" rx="5" fill="#d1d5db"/><rect x="75" y="164" width="760" height="10" rx="5" fill="#374151"/>
+    <text x="875" y="172" font-size="17" font-weight="700" fill="#111827">100%</text>
+    <rect x="50" y="207" width="900" height="66" rx="8" fill="#f3f4f6"/>
+    <text x="75" y="233" font-size="17" font-weight="700" fill="#111827">Remaining works</text>
+    <rect x="75" y="246" width="760" height="10" rx="5" fill="#d1d5db"/><rect x="75" y="246" width="741" height="10" rx="5" fill="#4b5563"/>
+    <text x="865" y="254" font-size="17" font-weight="700" fill="#111827">97.49%</text>
+    <rect x="50" y="289" width="900" height="75" rx="8" fill="#e5e7eb"/>
+    <text x="75" y="318" font-size="18" font-weight="700" fill="#111827">Global project progress</text>
+    <rect x="75" y="336" width="760" height="12" rx="6" fill="#cbd5e1"/><rect x="75" y="336" width="753" height="12" rx="6" fill="#111827"/>
+    <text x="865" y="348" font-size="19" font-weight="700" fill="#111827">99.12%</text>
+  </g>
+  <text x="50" y="405" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#6b7280">Source basis: recurring management presentation updated 08 September 2024. Percentages reproduced from the reviewed slide.</text>
+</svg>
