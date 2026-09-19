@@ -4,7 +4,7 @@ From **August 2023 to May 2025**, I worked on the owner side of the construction
 
 My formal company title remained **Ingénieur d'études**. In practice, I handled day-to-day project-management responsibilities across planning, contracts, technical coordination, cost follow-up, reporting, risks, reception and closeout.
 
-![Completed manufacturing facility](assets/facility-exterior.jpg)
+![Completed manufacturing facility](assets/facility-exterior.webp)
 
 ## At a glance
 
@@ -31,7 +31,7 @@ flowchart LR
     B --> C["Civil works & steel structure<br/>Planning, coordination, controls"]
     C --> D["Remaining works<br/>Study adaptation & change management"]
     D --> E["Provisional reception<br/>Main construction scopes"]
-    E --> F["Reserves, DGD & closeout<br/>2024–2025"]
+    E --> F["Reserves, Final account & closeout<br/>2024–2025"]
 ```
 
 The delivery period involved two contractor scopes and two engineering-consultant / BET contract streams, together with technical-control, laboratory, procurement and internal stakeholders.
@@ -61,7 +61,7 @@ That work included:
 
 ### Procurement, specifications and selection
 
-Preparing procurement and specification documents was a recurring part of my work, not a one-off task.
+Procurement and specification work was a recurring part of my role.
 
 For the TABEL project, I prepared or substantially contributed to several **cahiers des charges**, consultation and contract packages, including the engineering-consultant / BET package and selected technical infrastructure packages. I also participated in contractor and consultant selection, technical offer evaluation and negotiation activities.
 
@@ -85,17 +85,7 @@ The situation required coordination between the contractor, engineering parties 
 
 ## Project progression
 
-The archive documents the project from early execution through later delivery.
-
-**Early execution — October 2023**
-
-![Early construction stage](assets/site-early-execution.jpg)
-
-**Later production areas**
-
-![Meter assembly area](assets/meter-assembly-area.jpg)
-
-![Gas meter workshop](assets/gas-meter-workshop.jpg)
+The project archive documents the progression from early construction through the later delivery stages shown in the facility image above.
 
 ## Reception and closeout
 
