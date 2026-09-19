@@ -83,7 +83,7 @@ The situation required coordination between the contractor, engineering parties 
 
 ## Project progression
 
-The project archive documents the progression from early construction through the later delivery stages shown in the facility image above.
+The reviewed archive documents the progression from early construction through the later delivery and closeout stages.
 
 ## Reception and closeout
 
