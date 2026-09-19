@@ -2,45 +2,44 @@
 
 ## Evidence basis
 
-This case study is based on a large surviving project archive and first-hand project context.
+This case study is based on a large surviving project archive plus first-hand project context.
 
-Reviewed material includes:
+The reviewed material covers the project lifecycle and my direct delivery period through multiple evidence families:
 
-- MS Project schedules and planning revisions;
-- progress trackers;
-- recurring project-status presentations;
-- meeting and negotiation minutes;
-- cahiers des charges and consultation packages;
-- contract and amendment documentation;
-- work orders;
-- change and price-proposal records;
-- financial monitoring workbooks;
-- technical evaluation records;
-- technical-control / reserve files;
-- provisional-reception and closeout documents;
-- construction and facility photographs;
-- project drawings and plan references in the original archive structure.
+| Area | Evidence reviewed |
+|---|---|
+| Planning & progress | MS Project schedules, planning revisions, progress trackers and recurring dated project presentations |
+| Reporting | Executive project-status presentations, monthly reports and action follow-up |
+| Contracts & change | Contractor/BET contracts, amendments, work orders, stop/resume records, complementary-work and negotiation files |
+| Procurement | Cahiers des charges, consultation packages, offer evaluations and negotiation records |
+| Financial follow-up | Project financial workbook, work-progress/payment statements, invoice/payment tracking, forecasts and DGD/final accounts |
+| Technical coordination | Meeting minutes, study-gap records, drawing/plan revisions, technical-control observations and reserve files |
+| Acceptance & closeout | Provisional-acceptance records, punch-list / reserve follow-up, closeout amendments and service/final-account documentation |
+| Visual evidence | Construction-stage and later facility/production photographs, plus recurring project-status presentations |
 
-A substantial number of owner-side Office documents contain Oussama MAOUCHE in creator metadata. That metadata is used only as supporting evidence together with document content and first-hand confirmation.
+## Published evidence
 
-## Public evidence
+The public repository uses two sanitized SVG visuals derived from the reviewed evidence:
 
-The public repository uses a project lifecycle diagram in the main README and summarized evidence from the reviewed archive. Raw project photographs remain private in the current version.
+- a high-level project-delivery timeline;
+- a reconstructed progress snapshot based on the 08 September 2024 management presentation.
+
+The original construction/facility photographs remain part of the private evidence archive in the current public version.
+
+The README and [Representative Project Evidence](representative-artifacts.md) document the evidence trail behind the main responsibility claims without publishing confidential originals.
 
 ## Material kept private
 
-The public case study does not publish:
+The repository does not publish:
 
-- the private project-assignment email;
 - raw contracts or contract numbers;
 - exact contract values;
-- invoices and payment details;
+- invoices and detailed payment records;
 - signatures or stamps;
 - private emails;
 - detailed technical drawings;
-- raw tender submissions;
+- raw tender submissions and confidential evaluations;
 - internal correspondence;
-- personal contact information;
-- ministry-specific reporting details.
+- personal contact information.
 
-Project stakeholders are described mainly by their function unless a company name is necessary to explain the project context.
+External stakeholders are described mainly by their project function unless naming an organization is necessary to explain the project context.
